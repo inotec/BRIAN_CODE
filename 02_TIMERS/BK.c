@@ -38,10 +38,6 @@
 //
 //************************************************************************
 //
-//   Configuration Bits:  The following #pragma statements set up the 
-//   hardware by causing actual hardware configuration bits to be 
-//   programmed into the chip. 
-//
 //************************************************************************
 #pragma config FPLLIDIV = DIV_2    	// 8 MHz osc div by 2 = 4 The boards crystal oscillator is 8 MHz determined by the
 																		// 8 MHz crystal on the board.  A "Phased Locked Loop Input Divider" on the chip
@@ -78,7 +74,6 @@
 
 //************************************************************************
 //
-//   Include Files
 //
 //************************************************************************
 
