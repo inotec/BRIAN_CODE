@@ -1,0 +1,8 @@
+ZZ73104ZZZ
+
+29c 4  1 4 0 1 0 1 U2_RxBufIn 
+258 4  1 4 0 1 0 1 U2_RxBufOut 
+eac 62  4 400 0 1 0 1 U2_RxBuffer 
+20c 4  1 4 0 1 0 1 U2_TxBufIn 
+220 4  1 4 0 1 0 1 U2_TxBufOut 
+aac 62  4 400 0 1 0 1 U2_TxBuffer 
